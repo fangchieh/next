@@ -1,6 +1,7 @@
 <meta charset="UTF-8"/>
 <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2"/>
+<meta name="google-site-verification" content="rT95dBEdWqY1ifoJ2y4gwHGE4LaoEkbdCQYFNH1TZvU" />
 <meta name="theme-color" content="{{ theme.android_chrome_color }}"/>
 
 {% if theme.needmoreshare2.enable %}
